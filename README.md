@@ -72,18 +72,18 @@ Web version using Flask or Streamlit is in progress.
 
 ResearchAgent/
 │
-├── data/                     # Sample or processed data
-├── models/                   # Pre-trained or custom ML models
-├── src/                      # Core logic
+├── data/                    
+├── models/                   
+├── src/                      
 │   ├── semantic_search.py
 │   ├── summarization.py
 │   ├── citation_analysis.py
 │   ├── trend_analysis.py
 │   ├── recommendations.py
 │   ├── collaboration_map.py
-│   └── main.py               # Entry point
+│   └── main.py               
 │
-├── .env                      # API Keys (not included in repo)
+├── .env                      
 ├── requirements.txt
 ├── LICENSE
 └── README.md
