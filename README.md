@@ -69,6 +69,7 @@ Web version using Flask or Streamlit is in progress.
 ---
 
 🗂 Project Structure:
+
 ResearchAgent/
 │
 ├── data/                     # Sample or processed data
