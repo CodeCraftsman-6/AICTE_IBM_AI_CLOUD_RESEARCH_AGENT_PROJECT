@@ -37,10 +37,11 @@
 ---
 
 ## 🌐 IBM Cloud Services Used
-IBM Watsonx.ai Studio – AI model training and deployment.
-IBM Cloud Object Storage – Data input and retrieval.
-IBM IAM (Identity and Access Management) – Secure authentication and access.
-IBM Cloud Lite Account – Enables development and deployment at zero cost for initial testing.
+
+ •IBM Watsonx.ai Studio – AI model training and deployment.
+ •IBM Cloud Object Storage – Data input and retrieval.
+ •IBM IAM (Identity and Access Management) – Secure authentication and access.
+ •IBM Cloud Lite Account – Enables development and deployment at zero cost for initial testing.
 
 ---
 
